@@ -1,0 +1,24 @@
+[33mtag v1.0[m
+Tagger: Dudus Bianca <dudus.bianca@elev.cihcahul.md>
+Date:   Tue Oct 13 21:46:47 2026 +0300
+
+Prima versiune
+
+[33mcommit 0675648bf819a0d9144f5ce94aff65caa421adff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Merge: 361f31e ec79b2e
+Author: Dudus Bianca <dudus.bianca@elev.cihcahul.md>
+Date:   Tue Oct 13 21:44:10 2026 +0300
+
+    Rezolva conflictul
+
+[1mdiff --cc index.html[m
+[1mindex 8abeb5a,d4c0e1e..32c2f60[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@@ -1,1 -1,1 +1,5 @@@[m
+[31m -<h1>Titlu B</h1>[m
+[32m++HEAD[m
+[32m +<h1>Titlu A</h1>[m
+[32m++[m
+[32m++<h1>Titlu B</h1> varianta-b[m
+[32m++[m
